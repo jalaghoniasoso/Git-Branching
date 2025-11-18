@@ -10,7 +10,12 @@ public class Main {
         System.out.println("Something was not done.");
     }
 
+
+    private static int userTwoDoneSomething(){
+        return 900;
+    }
     public static String amazingMethod(){
         return "Amazing spiderman is not amazing";
+
     }
 }
