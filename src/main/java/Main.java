@@ -9,4 +9,8 @@ public class Main {
     public static void doNotDoSomething() {
         System.out.println("Something was not done.");
     }
+
+    public static String amazingMethod(){
+        return "Amazing spiderman is not amazing";
+    }
 }
